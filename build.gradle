@@ -1,5 +1,5 @@
 plugins {
-	id 'fabric-loom' version '1.8.+'
+	id 'fabric-loom' version '1.9-SNAPSHOT'
 	id 'maven-publish'
 }
 
@@ -94,3 +94,4 @@ publishing {
 	}
 
 }
+
